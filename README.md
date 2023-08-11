@@ -1,3 +1,3 @@
-## Pengelolaan Barang V2 Codeigniter
+## Perang (Pengelolaan Barang) V2 Codeigniter
 
-`Techonology : PHP, Codeigniter, Bootsrap 5`
+`Techonology : PHP, Codeigniter, Bootsrap 5, Mysql`
